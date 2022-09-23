@@ -1,0 +1,11 @@
+ID,ID wymagania,Tytuł,Warunki wstępne,Kroki,Oczekiwany rezultat
+1.,No 222,"Wpisz ilość znaków dla adresu mailowego łącznie >= 101.
+
+","Zaloguj się do aplikacji z konta użytkownika, który ma możliwość tworzenia nowych użytkowników.
+Otwórz formularz tworzenia użytkownika: Użytkownicy->Wszyscy użytkownicy-> Dodaj nowego
+
+","Wpisz unikalną nazwę użytkownika.
+Wypełnij pole e-mail prawidłowym adresem składającym ze 101 lub więcej znaków (łącznie ze znakami „@„ oraz „.”)
+Kliknij przycisk „Utwórz użytkownika”","Tuż pod nagłówkiem “Utwórz użytkownika” zostaje wyświetlony komunikat: “Błąd: wprowadzony adres e-mail nie jest prawidłowy.”
+
+"
